@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GasPumpSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GasPumpSystem_jar</output-path>
+    <root id="archive" name="GasPumpSystem.jar">
+      <element id="module-output" name="GasPumpSystem" />
+    </root>
+  </artifact>
+</component>
